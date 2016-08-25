@@ -1,2 +1,2 @@
 # DigiKeypad
-A practical analog keypad powered by Digispark (ATTiny85)
+A functional analog keypad powered by Digispark (ATTiny85)
