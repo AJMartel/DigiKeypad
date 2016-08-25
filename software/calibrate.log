@@ -1,0 +1,196 @@
+.---.---.---.---.
+| F | / | * | < |
+:---+---+---+---:
+| 7 | 8 | 9 | - |
+:---+---+---+---:
+| 4 | 5 | 6 | + |
+:---+---+---+---:
+| 1 | 2 | 3 | E |
+:---+---+---+ n :
+|   0   | . | t |
+'-------'---'---'
+
+
+Please press [Num Lock] for me to calibrate the analog value...
+LOW vs HIGH
+321 ... 322
+320 ... 322
+320 ... 323
+320 ... 324
+316 ... 324
+
+The final range is: 316 ... 324
+
+Please press [/] for me to calibrate the analog value...
+LOW vs HIGH
+141 ... 142
+140 ... 142
+140 ... 143
+140 ... 144
+137 ... 144
+
+The final range is: 137 ... 144
+
+Please press [*] for me to calibrate the analog value...
+LOW vs HIGH
+195 ... 196
+194 ... 196
+194 ... 198
+194 ... 199
+193 ... 199
+193 ... 200
+193 ... 201
+
+The final range is: 193 ... 201
+
+Please press [Backspace] for me to calibrate the analog value...
+LOW vs HIGH
+253 ... 254
+253 ... 255
+
+The final range is: 253 ... 255
+
+Please press [7] for me to calibrate the analog value...
+LOW vs HIGH
+445 ... 446
+445 ... 447
+
+The final range is: 445 ... 447
+
+Please press [8] for me to calibrate the analog value...
+LOW vs HIGH
+163 ... 165
+162 ... 165
+161 ... 165
+160 ... 165
+
+The final range is: 160 ... 165
+
+Please press [9] for me to calibrate the analog value...
+LOW vs HIGH
+237 ... 238
+236 ... 238
+236 ... 240
+
+The final range is: 236 ... 240
+
+Please press [-] for me to calibrate the analog value...
+LOW vs HIGH
+169 ... 172
+167 ... 172
+165 ... 172
+165 ... 173
+
+The final range is: 165 ... 173
+
+Please press [4] for me to calibrate the analog value...
+LOW vs HIGH
+294 ... 295
+294 ... 296
+293 ... 296
+292 ... 296
+291 ... 296
+291 ... 297
+291 ... 298
+291 ... 300
+290 ... 300
+
+The final range is: 290 ... 300
+
+Please press [5] for me to calibrate the analog value...
+LOW vs HIGH
+135 ... 136
+134 ... 136
+134 ... 137
+134 ... 138
+133 ... 138
+133 ... 139
+132 ... 139
+132 ... 140
+
+The final range is: 132 ... 140
+
+Please press [6] for me to calibrate the analog value...
+LOW vs HIGH
+185 ... 186
+184 ... 186
+184 ... 187
+184 ... 188
+183 ... 188
+181 ... 188
+181 ... 190
+
+The final range is: 181 ... 190
+
+Please press [+] for me to calibrate the analog value...
+LOW vs HIGH
+
+The final range is: 511 ... 511
+
+Please press [1] for me to calibrate the analog value...
+LOW vs HIGH
+354 ... 355
+354 ... 356
+353 ... 356
+
+The final range is: 353 ... 356
+
+Please press [2] for me to calibrate the analog value...
+LOW vs HIGH
+147 ... 149
+147 ... 150
+146 ... 150
+
+The final range is: 146 ... 150
+
+Please press [3] for me to calibrate the analog value...
+LOW vs HIGH
+207 ... 209
+207 ... 210
+206 ... 210
+206 ... 211
+
+The final range is: 206 ... 211
+
+Please press [0] for me to calibrate the analog value...
+LOW vs HIGH
+394 ... 396
+393 ... 396
+393 ... 397
+393 ... 398
+
+The final range is: 393 ... 398
+
+Please press [.] for me to calibrate the analog value...
+LOW vs HIGH
+154 ... 156
+153 ... 156
+152 ... 156
+152 ... 157
+151 ... 157
+
+The final range is: 151 ... 157
+
+Please press [Enter] for me to calibrate the analog value...
+LOW vs HIGH
+222 ... 223
+221 ... 223
+220 ... 223
+
+The final range is: 220 ... 223
+
+Press [+] to save all the calibration data...
+Unplug to abort
+clear EEPROM...0%
+9%
+19%
+29%
+39%
+49%
+59%
+69%
+79%
+89%
+99%
+done!
+writing to EEPROM...done!
